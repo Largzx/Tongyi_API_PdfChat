@@ -6,8 +6,8 @@
 - Input your **APIKEY** and Upload PDF files and ask questions about files
 ## Introduction
 This project mainly uses Langchain and streamlit to implement file questions.
-You can choose the models in qwen-max, qwen-plus, qwen-turbo, what about these models you could
-find in  [阿里云百炼](https://help.aliyun.com/zh/model-studio/user-guide/text-generation/?spm=a2c4g.2712809.0.0.72731507x6iuVp)  
+You can choose the models in qwen-max, qwen-plus, qwen-turbo, You can check out the introduction of these models
+The following links:  [阿里云百炼](https://help.aliyun.com/zh/model-studio/user-guide/text-generation/?spm=a2c4g.2712809.0.0.72731507x6iuVp)  
     
 You could creat APIKEY in the web [百炼API](https://bailian.console.aliyun.com/?apiKey=1#/api-keyw)    
   
